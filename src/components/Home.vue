@@ -27,6 +27,7 @@
           hide-details
           label="Solo field"
           light
+          flat
           solo
           class="mySelect ml-3"
           v-model="selectValue"
